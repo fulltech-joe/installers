@@ -1,0 +1,3 @@
+/usr/bin/curl -L1 https://dl.tvcdn.de/download/version_14x/CustomDesign/Install%20TeamViewerHost-idc87pv3vp.pkg > /tmp/Install\ TeamViewerHost-idc87pv3vp.pkg 
+installer -pkg /tmp/Install\ TeamViewerHost-idc87pv3vp.pkg -target /
+/bin/rm /tmp/Install\ TeamViewerHost-idc87pv3vp.pkg
